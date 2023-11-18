@@ -13,7 +13,7 @@ import androidx.constraintlayout.compose.ConstraintLayout
 
 
 @Composable
-fun HistoryListItem(
+fun ElementListItem(
     element: String,
     ) {
 
